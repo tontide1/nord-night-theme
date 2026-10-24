@@ -411,7 +411,7 @@
             "font_weight": null
           },
           "type.builtin": {
-            "color": "#88c0d0",
+            "color": "#5e81ac",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -495,7 +495,7 @@
             "font_weight": null
           },
           "type.class.builtin": {
-            "color": "#88c0d0",
+            "color": "#5e81ac",
             "background_color": null,
             "font_style": null,
             "font_weight": null
