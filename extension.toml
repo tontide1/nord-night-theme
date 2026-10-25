@@ -1,6 +1,6 @@
 id = "nord-night-theme"
 name = "Nord Night"
-version = "0.2.1"
+version = "0.2.2"
 schema_version = 1
 authors = ["tontide1 <124888314+tontide1@users.noreply.github.com>"]
 description = "Tokyo Night Storm base with Nord Frost accents, for terminals, editors and Omarchy."
