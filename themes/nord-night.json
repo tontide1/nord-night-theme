@@ -332,6 +332,12 @@
             "font_style": null,
             "font_weight": null
           },
+          "selector": {
+            "color": "#ebcb8b",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
           "punctuation": {
             "color": "#e5e9f0",
             "background_color": null,
